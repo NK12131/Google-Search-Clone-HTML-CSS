@@ -66,9 +66,6 @@ No installation is needed.
    ```
 2. **Open `index.html` in your browser.** You can double-click the file, or use a local server such as the VS Code **Live Server** extension.
 
-### Optional: host it on GitHub Pages
-In the repository, go to **Settings → Pages**, choose the `main` branch and the root folder, and save. The site is published at `https://<your-username>.github.io/Google-search-clone/`.
-
 ---
 
 ## 🎯 What I Learned
