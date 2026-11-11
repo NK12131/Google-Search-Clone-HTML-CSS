@@ -1,0 +1,95 @@
+form {
+    margin-left: 35%;
+    margin-top: 1%;
+}
+
+
+#submit{
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 7px;
+    margin-left: 13%;
+    width: auto;
+    height: 30px;
+    background-color: #ccc
+}
+
+
+#tsubmit{
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 7px;
+    margin-left: 20%;
+    width: auto;
+    height: 30px;
+    background-color: #ccc
+}
+
+#feeling {
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 7px;
+    margin-left: 2%;
+    width: auto;
+    height: 30px;
+    background-color: #ccc;
+}
+
+
+#adv-submit{
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 7px;
+    margin-left: 45%;
+    width: auto;
+    height: 30px;
+    background-color: #4285F4;
+    color: white;
+}
+#advsrch {
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 1%;
+    width: 500px;
+}
+
+#name{
+    align-content: center;
+    margin-left: 43%;
+    margin-top: 15%; 
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size:xxx-large;
+}
+
+#image-adv{
+    margin-left: 80%;
+    display: flexbox;
+    flex-wrap: wrap;
+}
+
+#tom {
+    display: flexbox;
+    flex-wrap: wrap;
+}
+
+#image-adv >a{
+padding-left: 2%;
+padding-top: 10%;
+}
+
+#google_search{
+    margin-left: 90%;
+}
+#query {
+    background-color: white;
+    background-position: 10px 10px; 
+    background-image: url('https://www.w3schools.com/css/searchicon.png');
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    width: 50%;
+    height: 40px;
+}
